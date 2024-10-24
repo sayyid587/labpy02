@@ -9,35 +9,46 @@ Mata kuliah : Bahasa Pemrograman <p>
 
 ## Program pemesanan tiket bioskop
 ### Flowchart
-Berikut adalah penjelasan terkait flowchart di atas
+![gambar 1](ft1.png)
 
-Mulai: Proses dimulai dengan langkah ini, ditandai oleh simbol oval.
+Berikut adalah penjelasan terkait flowchart di atas <p>
 
-Inisialisasi Harga Tiket: Tiket Reguler: Rp50.000
-                          Tiket VIP: Rp100.000
-                          Diskon Member: 20%
-Tentukan harga untuk tiket reguler dan tiket VIP, serta diskon yang diberikan untuk member
+Mulai: Proses dimulai dengan langkah ini, ditandai oleh simbol oval. <p>
+![gambar 4](ft4.png)
 
-Input Tipe Tiket: Pengguna diminta untuk memasukkan tipe tiket yang ingin dibeli, apakah "reguler" atau "VIP".
+Inisialisasi Harga Tiket: Tiket Reguler: Rp50.000 <p>
+                          Tiket VIP: Rp100.000 <p>
+                          Diskon Member: 20% <p>
+Tentukan harga untuk tiket reguler dan tiket VIP, serta diskon yang diberikan untuk member <p>
+![gambar 5](ft5.png)
 
-Input Status Member: Pengguna diminta untuk memasukkan status keanggotaan mereka, apakah memiliki kartu member ("ya") atau tidak ("tidak").
+Input Tipe Tiket: Pengguna diminta untuk memasukkan tipe tiket yang ingin dibeli, apakah "reguler" atau "VIP". <p>
+![gambar 6](ft6.png)
 
-Validasi Tipe Tiket: Program memeriksa apakah tipe tiket yang diinput adalah "reguler" atau "VIP": 
-Jika tipe tiket adalah "reguler", lanjutkan ke langkah berikutnya dengan harga tiket diatur ke Rp50.000.
-Jika tipe tiket adalah "VIP", lanjutkan ke langkah berikutnya dengan harga tiket diatur ke Rp100.000.
-Jika tipe tiket bukan "reguler" atau "VIP", anggap sebagai input yang tidak valid dan minta pengguna untuk memasukkan tipe tiket yang benar.
+Input Status Member: Pengguna diminta untuk memasukkan status keanggotaan mereka, apakah memiliki kartu member ("ya") atau tidak ("tidak"). <p>
+![gambar 7](ft7.png)
 
-Periksa Apakah Harga Tidak Nol:
-Program memeriksa apakah harga tiket sudah diatur (tidak nol):
-Jika harga sudah diatur, lanjutkan ke langkah berikutnya.
-Jika harga belum diatur (nol), kembali ke input tipe tiket.
+Validasi Tipe Tiket: Program memeriksa apakah tipe tiket yang diinput adalah "reguler" atau "VIP": <p>
+Jika tipe tiket adalah "reguler", lanjutkan ke langkah berikutnya dengan harga tiket diatur ke Rp50.000. <p>
+Jika tipe tiket adalah "VIP", lanjutkan ke langkah berikutnya dengan harga tiket diatur ke Rp100.000. <p>
+Jika tipe tiket bukan "reguler" atau "VIP", anggap sebagai input yang tidak valid dan minta pengguna untuk memasukkan tipe tiket yang benar. <p>
+![gambar 8](ft8.png)
 
-Cek Status Member dan Hitung Diskon:
-Program memeriksa apakah pengguna memiliki kartu member: 
-Jika pengguna memiliki kartu member ("ya"), harga akhir dihitung dengan memberikan diskon 20% (harga * 0.8).
-Jika pengguna tidak memiliki kartu member ("tidak"), harga akhir tetap sama dengan harga tiket tanpa diskon.
+Periksa Apakah Harga Tidak Nol: <p>
+Program memeriksa apakah harga tiket sudah diatur (tidak nol): <p>
+Jika harga sudah diatur, lanjutkan ke langkah berikutnya. <p>
+Jika harga belum diatur (nol), kembali ke input tipe tiket. <p>
+![gambar 9](ft9.png)
 
-Tampilkan Harga Akhir:
-Program menampilkan total harga tiket yang harus dibayar oleh pengguna.
+Cek Status Member dan Hitung Diskon: <p>
+Program memeriksa apakah pengguna memiliki kartu member: <p>
+Jika pengguna memiliki kartu member ("ya"), harga akhir dihitung dengan memberikan diskon 20% (harga * 0.8). <p>
+Jika pengguna tidak memiliki kartu member ("tidak"), harga akhir tetap sama dengan harga tiket tanpa diskon. <p>
+![gambar 10](ft10.png)
 
-Selesai: Proses selesai, ditandai oleh simbol oval.
+Tampilkan Harga Akhir: <p>
+Program menampilkan total harga tiket yang harus dibayar oleh pengguna. <p>
+![gambar 11](ft11.png)
+
+Selesai: Proses selesai, ditandai oleh simbol oval. <p>
+![gambar 12](ft12.png)
