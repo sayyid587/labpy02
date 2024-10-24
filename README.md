@@ -11,7 +11,7 @@ Mata kuliah : Bahasa Pemrograman <p>
 ### Flowchart
 ![gambar 1](screenshot/ft1.png)
 
-Berikut adalah penjelasan terkait flowchart di atas <p>
+### Berikut adalah penjelasan terkait flowchart di atas <p>
 
 Mulai: Proses dimulai dengan langkah ini, ditandai oleh simbol oval. <p>
 ![gambar 4](screenshot/ft4.png)
@@ -52,3 +52,11 @@ Program menampilkan total harga tiket yang harus dibayar oleh pengguna. <p>
 
 Selesai: Proses selesai, ditandai oleh simbol oval. <p>
 ![gambar 12](screenshot/ft12.png)
+
+### Program python
+seperti ini jika algoritma di atas yang di buat dalam bentuk flowchart di jadikan sebuah program dengan bahasa python
+![gambar 13](screenshot/ft2.png)
+
+### Hasil eksekusi 
+ini hasil eksekusi dari kode program di atas
+![gambar 14](screenshot/ft3.png)
