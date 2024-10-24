@@ -9,46 +9,46 @@ Mata kuliah : Bahasa Pemrograman <p>
 
 ## Program pemesanan tiket bioskop
 ### Flowchart
-![gambar 1](ft1.png)
+![gambar 1](scrennshot/ft1.png)
 
 Berikut adalah penjelasan terkait flowchart di atas <p>
 
 Mulai: Proses dimulai dengan langkah ini, ditandai oleh simbol oval. <p>
-![gambar 4](ft4.png)
+![gambar 4](scrennshot/ft4.png)
 
 Inisialisasi Harga Tiket: Tiket Reguler: Rp50.000 <p>
                           Tiket VIP: Rp100.000 <p>
                           Diskon Member: 20% <p>
 Tentukan harga untuk tiket reguler dan tiket VIP, serta diskon yang diberikan untuk member <p>
-![gambar 5](ft5.png)
+![gambar 5](scrennshot/ft5.png)
 
 Input Tipe Tiket: Pengguna diminta untuk memasukkan tipe tiket yang ingin dibeli, apakah "reguler" atau "VIP". <p>
-![gambar 6](ft6.png)
+![gambar 6](scrennshot/ft6.png)
 
 Input Status Member: Pengguna diminta untuk memasukkan status keanggotaan mereka, apakah memiliki kartu member ("ya") atau tidak ("tidak"). <p>
-![gambar 7](ft7.png)
+![gambar 7](scrennshot/ft7.png)
 
 Validasi Tipe Tiket: Program memeriksa apakah tipe tiket yang diinput adalah "reguler" atau "VIP": <p>
 Jika tipe tiket adalah "reguler", lanjutkan ke langkah berikutnya dengan harga tiket diatur ke Rp50.000. <p>
 Jika tipe tiket adalah "VIP", lanjutkan ke langkah berikutnya dengan harga tiket diatur ke Rp100.000. <p>
 Jika tipe tiket bukan "reguler" atau "VIP", anggap sebagai input yang tidak valid dan minta pengguna untuk memasukkan tipe tiket yang benar. <p>
-![gambar 8](ft8.png)
+![gambar 8](scrennshot/ft8.png)
 
 Periksa Apakah Harga Tidak Nol: <p>
 Program memeriksa apakah harga tiket sudah diatur (tidak nol): <p>
 Jika harga sudah diatur, lanjutkan ke langkah berikutnya. <p>
 Jika harga belum diatur (nol), kembali ke input tipe tiket. <p>
-![gambar 9](ft9.png)
+![gambar 9](scrennshot/ft9.png)
 
 Cek Status Member dan Hitung Diskon: <p>
 Program memeriksa apakah pengguna memiliki kartu member: <p>
 Jika pengguna memiliki kartu member ("ya"), harga akhir dihitung dengan memberikan diskon 20% (harga * 0.8). <p>
 Jika pengguna tidak memiliki kartu member ("tidak"), harga akhir tetap sama dengan harga tiket tanpa diskon. <p>
-![gambar 10](ft10.png)
+![gambar 10](scrennshot/ft10.png)
 
 Tampilkan Harga Akhir: <p>
 Program menampilkan total harga tiket yang harus dibayar oleh pengguna. <p>
-![gambar 11](ft11.png)
+![gambar 11](scrennshot/ft11.png)
 
 Selesai: Proses selesai, ditandai oleh simbol oval. <p>
-![gambar 12](ft12.png)
+![gambar 12](scrennshot/ft12.png)
