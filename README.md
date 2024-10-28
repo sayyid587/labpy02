@@ -11,14 +11,15 @@ Mata kuliah : Bahasa Pemrograman <p>
 ### Flowchart
 ![gambar 1](screenshot/ft1.png)
 
-### Berikut adalah penjelasan terkait flowchart di atas <p>
+### Berikut adalah penjelasan terkait flowchart di atas 
 
 Mulai: Proses dimulai dengan langkah ini, ditandai oleh simbol oval. <p>
 ![gambar 4](screenshot/ft4.png)
 
-Inisialisasi Harga Tiket: Tiket Reguler: Rp50.000 <p>
-                          Tiket VIP: Rp100.000 <p>
-                          Diskon Member: 20% <p>
+Inisialisasi Harga Tiket: <p>
+Tiket Reguler: Rp50.000 <p>
+Tiket VIP: Rp100.000 <p>
+Diskon Member: 20% <p>
 Tentukan harga untuk tiket reguler dan tiket VIP, serta diskon yang diberikan untuk member <p>
 ![gambar 5](screenshot/ft5.png)
 
