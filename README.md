@@ -69,11 +69,11 @@ ini hasil eksekusi dari kode program di atas
 - **Input Angka Pertama:** Meminta pengguna memasukkan angka pertama.
 - **Input Angka Kedua:** Meminta pengguna memasukkan angka kedua.
 - **Input Operator Aritmatika:** Meminta pengguna memasukkan operator aritmatika (penjumlahan"+", pengurangan"-", perkalian"*", atau pembagian"/").
-- **Pilih Operator Aritmatika:** <p>
-Jika operator adalah +, program akan lakukan penjumlahan. <p>
-Jika operator adalah -, program akan lakukan pengurangan. <p>
-Jika operator adalah *, program akan lakukan perkalian. <p>
-Jika operator adalah /, program akan lakukan pembagian (dengan pengecekan pembagian nol). <p>
+- **Mengecek Operator Aritmatika yang di input:** <p>
+Jika operator adalah +, program akan melakukan penjumlahan. <p>
+Jika operator adalah -, program akan melakukan pengurangan. <p>
+Jika operator adalah *, program akan melakukan perkalian. <p>
+Jika operator adalah /, program akan melakukan pembagian (dengan pengecekan pembagian nol). <p>
 Jika operator tidak valid, tampilkan pesan kesalahan. <p>
 - **Hitung Hasil:** Hitung hasil operasi aritmatika berdasarkan operator yang dipilih.
 - **Tampilkan Hasil:** Tampilkan hasil perhitungan kepada pengguna.
