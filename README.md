@@ -69,7 +69,7 @@ ini hasil eksekusi dari kode program di atas
 - **Input Angka Pertama:** Meminta pengguna memasukkan angka pertama.
 - **Input Angka Kedua:** Meminta pengguna memasukkan angka kedua.
 - **Input Operator Aritmatika:** Meminta pengguna memasukkan operator aritmatika (penjumlahan"+", pengurangan"-", perkalian"*", atau pembagian"/").
-- **Pilih Operator Aritmatika:**
+- **Pilih Operator Aritmatika:** <p>
 Jika operator adalah +, program akan lakukan penjumlahan. <p>
 Jika operator adalah -, program akan lakukan pengurangan. <p>
 Jika operator adalah *, program akan lakukan perkalian. <p>
