@@ -60,3 +60,21 @@ seperti ini jika algoritma di atas yang di buat dalam bentuk flowchart di jadika
 ### Hasil eksekusi 
 ini hasil eksekusi dari kode program di atas
 ![gambar 14](screenshot/ft3.png)
+
+## Membuat kalkulator sederhana
+### Flowchart
+![gambar 13](screenshot/ft3.png)
+**penjelasan unutk flowchart di atas**
+- **Mulai:** Awal proses.
+- **Input Angka Pertama:** Meminta pengguna memasukkan angka pertama.
+- **Input Angka Kedua:** Meminta pengguna memasukkan angka kedua.
+- **Input Operator Aritmatika:** Meminta pengguna memasukkan operator aritmatika (penjumlahan, pengurangan, perkalian, atau pembagian).
+- **Pilih Operator Aritmatika:**
+Jika operator adalah +, lakukan penjumlahan.
+Jika operator adalah -, lakukan pengurangan.
+Jika operator adalah *, lakukan perkalian.
+Jika operator adalah /, lakukan pembagian (dengan pengecekan pembagian nol).
+Jika operator tidak valid, tampilkan pesan kesalahan.
+- **Hitung Hasil:** Hitung hasil operasi aritmatika berdasarkan operator yang dipilih.
+- **Tampilkan Hasil:** Tampilkan hasil perhitungan kepada pengguna.
+- **Selesai:** Akhir proses.
