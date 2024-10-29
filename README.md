@@ -63,8 +63,8 @@ ini hasil eksekusi dari kode program di atas
 
 ## Membuat kalkulator sederhana
 ### Flowchart
-![gambar 13](screenshot/ss13.png)
-**penjelasan unutk flowchart di atas**
+![gambar 15](screenshot/ss13.png)
+### penjelasan untuk flowchart di atas
 - **Mulai:** Awal proses.
 - **Input Angka Pertama:** Meminta pengguna memasukkan angka pertama.
 - **Input Angka Kedua:** Meminta pengguna memasukkan angka kedua.
@@ -78,3 +78,10 @@ Jika operator tidak valid, tampilkan pesan kesalahan. <p>
 - **Hitung Hasil:** Hitung hasil operasi aritmatika berdasarkan operator yang dipilih.
 - **Tampilkan Hasil:** Tampilkan hasil perhitungan kepada pengguna.
 - **Selesai:** Akhir proses.
+### Program python
+seperti ini jika algoritma di atas yang di buat dalam bentuk flowchart di jadikan sebuah program dengan bahasa python
+![gambar 16](screenshot/ft14.png)
+
+### Hasil eksekusi
+ini hasil eksekusi dari kode program di atas
+![gambar 17](screenshot/ft13.png)
