@@ -47,8 +47,7 @@ Jika pengguna memiliki kartu member ("ya"), harga akhir dihitung dengan memberik
 Jika pengguna tidak memiliki kartu member ("tidak"), harga akhir tetap sama dengan harga tiket tanpa diskon. <p>
 ![gambar 10](screenshot/ft10.png)
 
-- **Tampilkan Harga Akhir:** <p>
-Program menampilkan total harga tiket yang harus dibayar oleh pengguna. <p>
+- **Tampilkan Harga Akhir:** Program menampilkan total harga tiket yang harus dibayar oleh pengguna. <p>
 ![gambar 11](screenshot/ft11.png)
 
 - **Selesai:** Proses selesai, ditandai oleh simbol oval. <p>
