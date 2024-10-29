@@ -6,7 +6,6 @@ Kelas       : TI.24.A.5 <p>
 Nim         : 312410496 <p>
 
 Mata kuliah : Bahasa Pemrograman <p>
-`
 ## Program pemesanan tiket bioskop
 ### Flowchart
 ![gambar 1](screenshot/ft1.png)
