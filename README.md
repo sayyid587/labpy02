@@ -43,7 +43,7 @@ Jika harga belum diatur (nol), kembali ke input tipe tiket. <p>
 
 - **Cek Status Member dan Hitung Diskon:** <p>
 Program memeriksa apakah pengguna memiliki kartu member: <p>
-Jika pengguna memiliki kartu member ("ya"), harga akhir dihitung dengan memberikan diskon 20% (harga * 0.8). <p>
+Jika pengguna memiliki kartu member ("ya"), harga akhir dihitung dengan memberikan diskon 20%. <p>
 Jika pengguna tidak memiliki kartu member ("tidak"), harga akhir tetap sama dengan harga tiket tanpa diskon. <p>
 ![gambar 10](screenshot/ft10.png)
 
