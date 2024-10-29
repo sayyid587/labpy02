@@ -63,7 +63,7 @@ ini hasil eksekusi dari kode program di atas
 
 ## Membuat kalkulator sederhana
 ### Flowchart
-![gambar 13](screenshot/ft13.png)
+![gambar 13](screenshot/ss13.png)
 **penjelasan unutk flowchart di atas**
 - **Mulai:** Awal proses.
 - **Input Angka Pertama:** Meminta pengguna memasukkan angka pertama.
