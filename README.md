@@ -84,3 +84,4 @@ seperti ini jika algoritma di atas yang di buat dalam bentuk flowchart di jadika
 ### Hasil eksekusi
 ini hasil eksekusi dari kode program di atas
 ![gambar 17](screenshot/ft13.png)
+![gambar 18](screenshot/ft15.png)
